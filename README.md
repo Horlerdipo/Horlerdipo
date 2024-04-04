@@ -1,15 +1,15 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Umar Oladipo</h1>
+<h1 align="center">Hi 👋, I'm Umar Oladipo</h1>
 <h3 align="center">Highly dedicated and versatile Software Engineer with a proven track record in both frontend and backend development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=horlerdipo" alt="horlerdipo" /></a> </p>
 
-- ðŸŒ± Iâ€™m currently learning **Rust**
+- 🌱 I’m currently learning **Rust**
 
-- ðŸ’¬ Ask me about **php,Symfony,Laravel,Javascript,Typescript,Node.js,Nest.js,Express.js,Hapi.js**
+- 💬 Ask me about **php,Symfony,Laravel,Javascript,Typescript,Node.js,Nest.js,Express.js,Hapi.js**
 
-- ðŸ“« How to reach me **oladipoumar@gmail.com**
+- 📫 How to reach me **oladipoumar@gmail.com**
 
-- âš¡ Fun fact **I watch movies and play CODM a lot in my spare time. I am an expert(read: enthusiast) in War History**
+- ⚡ Fun fact **I watch movies and play CODM a lot in my spare time. I am an expert(read: enthusiast) in War History**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
