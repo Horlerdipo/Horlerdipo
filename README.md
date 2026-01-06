@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=horlerdipo" alt="horlerdipo" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **php,Symfony,Laravel,Javascript,Typescript,Node.js,Nest.js,Express.js,Hapi.js**
 
